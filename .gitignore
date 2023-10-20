@@ -1,0 +1,5 @@
+.venv
+.bicepparam
+.env
+config.ini
+*.bicepparam

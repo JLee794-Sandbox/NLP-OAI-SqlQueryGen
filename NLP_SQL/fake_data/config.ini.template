@@ -1,0 +1,5 @@
+[database]
+server_name = nlpsqldemo.database.windows.net
+database_name = dummydata
+username = <adminname>
+password = <password>

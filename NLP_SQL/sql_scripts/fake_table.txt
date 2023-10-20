@@ -1,0 +1,9 @@
+CREATE TABLE MedicalData (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    PatientName VARCHAR(255),
+    PatientAge INT,
+    PatientGender VARCHAR(10),
+    VisitDate DATE,
+    VisitType VARCHAR(50),
+    VisitNotes VARCHAR(MAX)
+);

@@ -1,0 +1,10 @@
+### An Azure SQL Table with its properties:
+#
+# MedicalData (ID, PatientName, PatientAge, PatientGender, VisitDate, VisitType, VisitNotes)
+#
+### you can only use the following SQL functions: COUNT, SUM, AVG, MIN, MAX, GETDATE
+### you can only use the following SQL keywords: SELECT, FROM, WHERE, AND, OR, LIKE, ORDER BY, ASC, DESC
+### you can only use the following SQL operators: =, <, >, <=, >=, <>
+### A query to {{$input}}
+
+SELECT

@@ -1,0 +1,4 @@
+semantic-kernel
+pyodbc
+azure-cognitiveservices-speech
+faker
